@@ -25,7 +25,9 @@ Features
 - Data Visualization: Utilize plots and charts to illustrate weather trends and patterns.
 
 Screenshots
+
 !/temperature_trends.png
+
 !/precipitation_patterns.png
 
 Dataset Details
